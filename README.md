@@ -1,6 +1,6 @@
 # 🎮 Supremacy Engine 🛠️
 
-Supremacy Engine is an open-source **Python 3D engine** built on **PyOpenGL**, with **Pygame** and **Pyglet** backends. It’s designed for real-time rendering, physics, and advanced graphics experimentation.
+Supremacy Engine is a (Semi) Open-Source **Python 3D engine** built on **PyOpenGL**, with **Pygame** and **Pyglet** backends. It’s designed for real-time rendering, physics, and advanced graphics experimentation.
 
 ---
 
